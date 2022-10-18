@@ -1,0 +1,12 @@
+table,
+tr,
+td,
+th {
+  padding: 30px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+table tr:hover {
+  background: #ffe4c4;
+}
